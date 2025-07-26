@@ -43,5 +43,3 @@ To view the project:
 1. Download or clone the repository.
 2. Open `Vrinda Store Data Analysis.xlsx` in Excel (2016 or later recommended).
 3. Use the dashboard slicers to interact with the data visually.
-
-## 📃 License
